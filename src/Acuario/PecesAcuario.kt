@@ -1,4 +1,4 @@
-package acuario
+package Acuario
 
 abstract class Pez {
     abstract val color: String

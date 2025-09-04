@@ -1,4 +1,4 @@
-package acuario
+package Acuario
 
 fun construirAcuario() {
     println(" Construcción de Acuarios ")
